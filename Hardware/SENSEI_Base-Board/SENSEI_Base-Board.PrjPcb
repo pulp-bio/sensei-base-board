@@ -23,15 +23,27 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SENSEI_Base-Board
+IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=Fabrication
 
 [Preferences]
 PrefsVaultGUID=
@@ -640,126 +652,382 @@ Variation26=Designator=R36|UniqueId=\NQKJMDQH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Pick Place\Pick Place for SENSEI_Base-Board(Fabrication_ready).txt
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\BioGAP_Mainboard.G2
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\BioGAP_Mainboard.G4
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX1
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\BioGAP_Mainboard.G5
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX2
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\BioGAP_Mainboard.G6
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX3
+DocumentPath=Project Outputs for SENSEI_Base-Board\Design Rule Check - SENSEI_Base-Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX4
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX5
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.G3
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board.DRR
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.EXTREP
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G1
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G2
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G3
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G4
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G5
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G6
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBL
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBO
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBP
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBS
+DocumentPath=Project Outputs for SENSEI_Base-Board\Pick Place\Pick Place for SENSEI_Base-Board(Fabrication).txt
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GKO
+DocumentPath=Project Outputs for SENSEI_Base-Board\Pick Place\Pick Place for SENSEI_Base-Board(Fabrication_ready).txt
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GM1
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTL
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTO
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTP
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTS
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board.LDP
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.REP
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for SENSEI_Base-Board\Report Board Stack\SENSEI_Base-Board.xls
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TX5
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TX5
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G2
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G2
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G3
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G3
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G4
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G4
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G5
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G5
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.G6
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.G6
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD2
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD3
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD4
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD5
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GD6
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG2
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG3
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG4
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG5
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GG6
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for SENSEI_Base-Board\NC Drill\SENSEI_Base-Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Gerber\SENSEI_Base-Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for SENSEI_Base-Board\SENSEI_Base-Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for SENSEI_Base-Board\Report Board Stack\SENSEI_Base-Board.xls
+DItemRevisionGUID=
+
+[GeneratedDocument95]
 DocumentPath=Project Outputs for SENSEI_Base-Board\BOM\SENSEI_Base-Board_BOM.xlsx
 DItemRevisionGUID=
 
@@ -782,7 +1050,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for SENSEI_Base-Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -889,12 +1157,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -969,6 +1247,18 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1009,7 +1299,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\s-fre\Documents\Github\EEG-Earbud\dev_PCB\01_Baseboard\PCB1.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\s-fre\Github\sensei-base-board_PULP_BIO\Hardware\SENSEI_Base-Board\SENSEI_Base-Board.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -1074,7 +1364,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\s-fre\Documents\Github\EEG-Earbud\dev_PCB\01_Baseboard\PCB1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=SSSNGYKF|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16777222~1,16777223~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=False|PlotBoardProfileFileName=SENSEI_Base-Board.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=SENSEI_Base-Board.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=Regular|PlotDrillDrawingLayerPair1_FileName=SENSEI_Base-Board.GD5|PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 4|PlotDrillDrawingLayerPair1_LowLayer=Mid Layer 6|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=True|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName=SENSEI_Base-Board.GD2|PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair2_LowLayer=Top Layer|PlotDrillDrawingLayerPair3_Backdrill=False|PlotDrillDrawingLayerPair3_Checked=True|PlotDrillDrawingLayerPair3_DrillType=Regular|PlotDrillDrawingLayerPair3_FileName=SENSEI_Base-Board.GD3|PlotDrillDrawingLayerPair3_HighLayer=Mid Layer 5|PlotDrillDrawingLayerPair3_LowLayer=Mid Layer 1|PlotDrillDrawingLayerPair4_Backdrill=False|PlotDrillDrawingLayerPair4_Checked=True|PlotDrillDrawingLayerPair4_DrillType=Regular|PlotDrillDrawingLayerPair4_FileName=SENSEI_Base-Board.GD4|PlotDrillDrawingLayerPair4_HighLayer=Mid Layer 6|PlotDrillDrawingLayerPair4_LowLayer=Mid Layer 5|PlotDrillDrawingLayerPair5_Backdrill=False|PlotDrillDrawingLayerPair5_Checked=True|PlotDrillDrawingLayerPair5_DrillType=Regular|PlotDrillDrawingLayerPair5_FileName=SENSEI_Base-Board.GD6|PlotDrillDrawingLayerPair5_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair5_LowLayer=Mid Layer 4|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=SENSEI_Base-Board.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=Regular|PlotDrillGuideLayerPair1_FileName=SENSEI_Base-Board.GG5|PlotDrillGuideLayerPair1_HighLayer=Mid Layer 4|PlotDrillGuideLayerPair1_LowLayer=Mid Layer 6|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=True|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName=SENSEI_Base-Board.GG2|PlotDrillGuideLayerPair2_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair2_LowLayer=Top Layer|PlotDrillGuideLayerPair3_Backdrill=False|PlotDrillGuideLayerPair3_Checked=True|PlotDrillGuideLayerPair3_DrillType=Regular|PlotDrillGuideLayerPair3_FileName=SENSEI_Base-Board.GG3|PlotDrillGuideLayerPair3_HighLayer=Mid Layer 5|PlotDrillGuideLayerPair3_LowLayer=Mid Layer 1|PlotDrillGuideLayerPair4_Backdrill=False|PlotDrillGuideLayerPair4_Checked=True|PlotDrillGuideLayerPair4_DrillType=Regular|PlotDrillGuideLayerPair4_FileName=SENSEI_Base-Board.GG4|PlotDrillGuideLayerPair4_HighLayer=Mid Layer 6|PlotDrillGuideLayerPair4_LowLayer=Mid Layer 5|PlotDrillGuideLayerPair5_Backdrill=False|PlotDrillGuideLayerPair5_Checked=True|PlotDrillGuideLayerPair5_DrillType=Regular|PlotDrillGuideLayerPair5_FileName=SENSEI_Base-Board.GG6|PlotDrillGuideLayerPair5_HighLayer=Bottom Layer|PlotDrillGuideLayerPair5_LowLayer=Mid Layer 4|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=SENSEI_Base-Board.GM23|UserLayerName.Caption1=SENSEI_Base-Board.GTP|UserLayerName.Caption10=SENSEI_Base-Board.G1|UserLayerName.Caption11=SENSEI_Base-Board.GM10|UserLayerName.Caption12=SENSEI_Base-Board.GBS|UserLayerName.Caption13=SENSEI_Base-Board.GM7|UserLayerName.Caption14=SENSEI_Base-Board.G3|UserLayerName.Caption15=SENSEI_Base-Board.GM6|UserLayerName.Caption16=SENSEI_Base-Board.GM16|UserLayerName.Caption17=SENSEI_Base-Board.GBL|UserLayerName.Caption18=SENSEI_Base-Board.GM5|UserLayerName.Caption19=SENSEI_Base-Board.GM15|UserLayerName.Caption2=SENSEI_Base-Board.GTO|UserLayerName.Caption20=SENSEI_Base-Board.G5|UserLayerName.Caption21=SENSEI_Base-Board.GTL|UserLayerName.Caption22=SENSEI_Base-Board.GBO|UserLayerName.Caption23=SENSEI_Base-Board.GPT|UserLayerName.Caption24=SENSEI_Base-Board.GM13|UserLayerName.Caption25=SENSEI_Base-Board.GM21|UserLayerName.Caption26=SENSEI_Base-Board.GM9|UserLayerName.Caption27=SENSEI_Base-Board.GM11|UserLayerName.Caption28=SENSEI_Base-Board.G4|UserLayerName.Caption29=SENSEI_Base-Board.GM1|UserLayerName.Caption3=SENSEI_Base-Board.GTS|UserLayerName.Caption30=SENSEI_Base-Board.GM8|UserLayerName.Caption31=SENSEI_Base-Board.GM24|UserLayerName.Caption32=SENSEI_Base-Board.G6|UserLayerName.Caption33=SENSEI_Base-Board.GM3|UserLayerName.Caption34=SENSEI_Base-Board.GM20|UserLayerName.Caption35=SENSEI_Base-Board.GKO|UserLayerName.Caption4=SENSEI_Base-Board.GM4|UserLayerName.Caption5=SENSEI_Base-Board.GM2|UserLayerName.Caption6=SENSEI_Base-Board.GM12|UserLayerName.Caption7=SENSEI_Base-Board.GPB|UserLayerName.Caption8=SENSEI_Base-Board.GBP|UserLayerName.Caption9=SENSEI_Base-Board.G2|UserLayerName.Count=36|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777218|UserLayerName.Layer11=16908298|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16908295|UserLayerName.Layer14=16777219|UserLayerName.Layer15=16908294|UserLayerName.Layer16=16908304|UserLayerName.Layer17=16842751|UserLayerName.Layer18=16908293|UserLayerName.Layer19=16908303|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777223|UserLayerName.Layer21=16777217|UserLayerName.Layer22=16973831|UserLayerName.Layer23=16973848|UserLayerName.Layer24=16908301|UserLayerName.Layer25=16908309|UserLayerName.Layer26=16908297|UserLayerName.Layer27=16908299|UserLayerName.Layer28=16777220|UserLayerName.Layer29=16908289|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16908296|UserLayerName.Layer31=16908312|UserLayerName.Layer32=16777221|UserLayerName.Layer33=16908291|UserLayerName.Layer34=16908308|UserLayerName.Layer35=16973837|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908300|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16777222|DocumentPath=C:\Users\s-fre\Github\sensei-base-board_PULP_BIO\Hardware\SENSEI_Base-Board\SENSEI_Base-Board.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1124,6 +1414,24 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1232,78 +1540,6 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1414,36 +1650,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1576,6 +1782,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1767,9 +1974,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1818,8 +2029,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=EEG_SchLib.SchLib
-ComponentDesignItemID0=TPP
-ComponentSymbolReference0=TPP
+ComponentDesignItemID0=U.FL-R-SMT-1(01)_GND_pad
+ComponentSymbolReference0=U.FL-R-SMT-1(01)_GND_pad
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1846,7 +2057,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=TPP
+ModelName0=U.FL-R-SMT-1(01)_GND_pad_small
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1856,12 +2067,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
