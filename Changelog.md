@@ -8,7 +8,7 @@
 - Debugging connector for nRF5340.
 - Integration of a new IMU (LSM6DSV16BX) with accelerometer, gyroscope, QVAR, AI features, and hearable-oriented functions (e.g., bone-conduction-related sensing).
 
-### Chenged
+### Changed
 
 - Antenna trace and matching circuit optimized.
 - Increased component spacing of various passives for better assembly.
